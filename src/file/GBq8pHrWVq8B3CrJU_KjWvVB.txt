@@ -1,0 +1,24 @@
+let btn = document.getElementsByClassName('content-box')
+let timer = setInterval(()=>{
+    if( new Date().getTime() >= 1676735999990){
+        btn[btn.length-1].getElementsByTagName('button')[0].click()
+        btn[btn.length-2].getElementsByTagName('button')[0].click()
+        clearInterval(timer)        
+    }
+},10)
+fall vessel scissors trumpet guess chef need install club burger knock balance
+a97376567fd45eb74f1663ba1fa23428dea8b3385ad67d25684f043b901c2575
+6c473cb48770837ff69ca4c3058fad42902033717d3baeeaa1205f92e8781cd2
+2dfe1be1b177732fc31c8171a0a42081d5be453e7443eb456177d77d5b1641b4
+7e65a294d70a7c60fd1c60dc2f336d8010a55d6a4c46c7704dc74750b566b5ad
+
+bitget 账号
+wxqdoit@gmail.com
+Highboy123.
+
+Wxq799962464.
+  
+
+https://edge.blocked.cc/
+wxqdoit@gmail.com wxqdoit
+wxqdoit308437
